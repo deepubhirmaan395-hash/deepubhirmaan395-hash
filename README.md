@@ -43,7 +43,8 @@ I enjoy turning raw data into meaningful insights and using data to solve busine
     <img src="https://cdn.simpleicons.org/pandas/150458" width="45" height="45" alt="Pandas"/>
   </a>
   <a href="https://matplotlib.org/" target="_blank">
-    <img src="https://cdn.simpleicons.org/matplotlib/11557C" width="45" height="45" alt="Matplotlib"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg"
+       width="45" height="45" alt="Matplotlib"/>
   </a>
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=vscode" width="45" height="45" alt="VS Code"/>
@@ -90,15 +91,20 @@ I enjoy turning raw data into meaningful insights and using data to solve busine
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=deepubhirmaan395-hash&theme=tokyonight&no-frame=true&margin-w=8&row=1&column=6" alt="GitHub trophies"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deepubhirmaan395-hash&theme=tokyonight" alt="GitHub profile summary"/>
 </p>
 
 ---
 
 ## 📅 Contribution Activity
 
+<h2 align="center">📈 Contribution Activity</h2>
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepubhirmaan395-hash&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph"/>
+  <a href="https://github.com/deepubhirmaan395-hash">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepubhirmaan395-hash&theme=tokyo-night&hide_border=true&area=true"
+         alt="Deepanshu's GitHub Contribution Activity Graph"/>
+  </a>
 </p>
 
 ---
