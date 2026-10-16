@@ -98,15 +98,8 @@ I enjoy turning raw data into meaningful insights and using data to solve busine
 
 ## 📅 Contribution Activity
 
-<h2 align="center">📈 GitHub Contribution Graph</h2>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=deepubhirmaan395-hash&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"
-    alt="GitHub Contribution Graph"
-    width="100%"
-  />
-</p>
+<!-- BEGIN ACTIVITY-GRAPH -->
+<!-- END ACTIVITY-GRAPH -->
 
 ---
 
